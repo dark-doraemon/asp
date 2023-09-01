@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UvdqrDPMiUfMlCinsEc3IAr12XjWAwN5TEMZNXF310CZ7Na9v35KJ+gDd8w9N521GgE7MiV0oBEJEQtiX0j2sA==",
+  "dgSpecHash": "Jb30prIVJReeiqVasiZ7d8+Ib0NNAudNIC959j3mka/iBbJU9op8iPrtQccM9KmLgwTLZojQPDtvhKwNe66Uvw==",
   "success": true,
-  "projectFilePath": "D:\\AllWebProjects\\WebEmpty\\WebEmpty.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/counterlogic/Desktop/WEB/asp/WebEmpty.csproj",
+  "expectedPackageFiles": [
+    "/home/counterlogic/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.21/microsoft.netcore.app.host.linux-x64.6.0.21.nupkg.sha512"
+  ],
   "logs": []
 }

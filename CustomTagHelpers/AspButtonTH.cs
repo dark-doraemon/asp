@@ -14,7 +14,8 @@ namespace WebEmpty.CustomTagHelpers
             output.TagMode = TagMode.StartTagAndEndTag;//tab có thẻ mở và thẻ đóng
             output.Attributes.SetAttribute("class", $"btn btn-{BackgroundColor}");//set value cho class attribute
             output.Attributes.SetAttribute("type", Type);//set value cho type attribute
-            output.Content.SetContent("Click to Add Record");//set content cho tag (i.g <button>Click to add record</button>)
+            output.Content.SetContent("Click to Add Record");
+            //set content cho tag (i.g <button>Click to add record</button>)
         }
     }
 }

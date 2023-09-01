@@ -7,7 +7,7 @@
 
 <h2>Create</h2>
 
-<form method="post" asp-controller="Home" asp-action="Create" asp-antiforgery="true">
+<form method="post" asp-antiforgery="true">
     <div class="form-group">
         <label asp-for="Name"></label>
         <select class="form-control" asp-for="Name" asp-items = "ViewBag.Name" value="">
@@ -27,7 +27,11 @@
     </div>
     <button type="submit" backgrouncolor="danger">Add</button>
     <aspbutton type="submit" ></aspbutton>
+    
 </form>
-
+<div theme = "secondary">
+    <button type="submit" >Add</button>
+    <a href="/Home/Index">Cancel</a>
+</div>
 
 
