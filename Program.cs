@@ -1,4 +1,4 @@
-using static WebEmpty.Models.Repository;
+using WebEmpty.Models;
 
 namespace WebEmpty
 {
@@ -8,7 +8,7 @@ namespace WebEmpty
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            builder.Services.AddSingleton<IRepository, ProductRepository>();
+            builder.Services.AddSingleton<IRepository, EmployeeRepository>();
 
             builder.Services.AddControllersWithViews();
 

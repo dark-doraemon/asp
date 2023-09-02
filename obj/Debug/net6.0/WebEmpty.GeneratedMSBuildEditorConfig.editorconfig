@@ -9,29 +9,25 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebEmpty
 build_property.RootNamespace = WebEmpty
-build_property.ProjectDir = /home/counterlogic/Desktop/WEB/asp/
+build_property.ProjectDir = D:\AllWebProjects\WebEmpty\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/counterlogic/Desktop/WEB/asp
+build_property.MSBuildProjectDirectory = D:\AllWebProjects\WebEmpty
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/counterlogic/Desktop/WEB/asp/Views/Home/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DcmVhdGUuY3NodG1s
+[D:/AllWebProjects/WebEmpty/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/counterlogic/Desktop/WEB/asp/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[D:/AllWebProjects/WebEmpty/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/counterlogic/Desktop/WEB/asp/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+[D:/AllWebProjects/WebEmpty/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/counterlogic/Desktop/WEB/asp/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/counterlogic/Desktop/WEB/asp/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[D:/AllWebProjects/WebEmpty/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
